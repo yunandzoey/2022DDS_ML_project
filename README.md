@@ -48,4 +48,5 @@ Reference: https://scikit-learn.org/stable/modules/model_evaluation.html#classif
   - constructure a tree structure where each node represents a decision based on a feature, and each leaf node represents a class label or a prediction, 
   - is intuitive and can handle both numerical and categorical data.
 4. K Neighborhoods Classifier
+5. Random Forest 
 7. XGB Classifier
