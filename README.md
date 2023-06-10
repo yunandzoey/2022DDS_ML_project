@@ -32,21 +32,3 @@ The only difference should be in the number of hyperparameter configurations eva
 
 You should choose which classification metric to use (and motivate your choice!).
 Reference: https://scikit-learn.org/stable/modules/model_evaluation.html#classification-metrics
-
-# The algorithm used for this project:
-1. Linear Regression: 
-  - a statistical algorithm to model the relationship between dependent variables and one or multiple independent variables.
-  - to find a best-fitting line that minimises the sum of square residuals between the line and data.
-  - commonly used for predicting continuous numerical values
-2. Logistic Regression: 
-  - a classification algorithm to model the relationship between independent variables and the probability of a binary outcome by logistic function(sigmoid function).
-  - to etimate the parameters that maximize the likelihood of the observed data.
-  - to outcome the probability of positive class ( also for multi-class problem)
-3. Decision Tree Classification
-  - a non-parametric supervised machine-learning algorithm to crease a tree-like model to make predictions.
-  - partitions the feature space based on the values of different input features, 
-  - constructure a tree structure where each node represents a decision based on a feature, and each leaf node represents a class label or a prediction, 
-  - is intuitive and can handle both numerical and categorical data.
-4. K Neighborhoods Classifier
-5. Random Forest 
-7. XGB Classifier
